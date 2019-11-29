@@ -72,7 +72,7 @@ public class StudentFragment extends Fragment {
                     saddress.setText("");
                     sage.setText("");
                 } else {
-                    Toast.makeText(getContext(), "Please select gender", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(getContext(), " select gender", Toast.LENGTH_SHORT).show();
                 }
 
 
